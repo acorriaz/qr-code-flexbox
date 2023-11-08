@@ -24,7 +24,7 @@ If you have any suggestions or resources that you think might be helpful for imp
 ![Desktop](./screenshot/solution-desktop.png)
 
 <p align="center">
-  <img width="460" height="300" src="screenshot/solution-mobile.png">
+  <img height="300" src="screenshot/solution-mobile.png">
 </p>
 
 ### Links
