@@ -22,7 +22,10 @@ If you have any suggestions or resources that you think might be helpful for imp
 ### Screenshot
 
 ![Desktop](./screenshot/solution-desktop.png)
-![Mobile](./screenshot/solution-mobile.png)
+
+<p align="center">
+  <img width="460" height="300" src="screenshot/solution-mobile.png">
+</p>
 
 ### Links
 
